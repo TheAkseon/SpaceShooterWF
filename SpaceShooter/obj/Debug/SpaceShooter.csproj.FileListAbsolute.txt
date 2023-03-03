@@ -1,0 +1,13 @@
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csprojAssemblyReference.cache
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\abqwe\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
